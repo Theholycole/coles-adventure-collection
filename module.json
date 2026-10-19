@@ -2,10 +2,10 @@
   "id": "lantern-house",
   "title": "Cole’s Adventure Collection",
   "description": "Cole’s personal PF2e adventure collection: Lantern House, Raincoil, Voyage to Morrowmaw, and Morrowmaw — Festival and the Three Crises.",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "url": "https://github.com/Theholycole/coles-adventure-collection",
   "manifest": "https://github.com/Theholycole/coles-adventure-collection/releases/latest/download/module.json",
-  "download": "https://github.com/Theholycole/coles-adventure-collection/releases/download/v1.9.0/module.zip",
+  "download": "https://github.com/Theholycole/coles-adventure-collection/releases/download/v1.9.1/module.zip",
   "compatibility": {
     "minimum": "14.361",
     "verified": "14.367",
